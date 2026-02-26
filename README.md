@@ -8,7 +8,7 @@ TI - 2F
 
 ## Migration
 
-1. Praktikum 2.1
+1. Praktikum 2.1 <br>
 ![alt text](/imgjobsheet3/prak2.1.png)
 
 2. Praktikum 2.2
@@ -41,4 +41,14 @@ TI - 2F
 ## DB Facecade
 
 1. Praktikum 4
-
+- level
+![alt text](imgjobsheet3/insertlevel.png) <br>
+![alt text](imgjobsheet3/insertleveldb.png)
+- level update
+![alt text](imgjobsheet3/updatelevel.png) <br>
+![alt text](imgjobsheet3/updateleveldb.png)
+- level delete
+![alt text](imgjobsheet3/deletelevel.png) <br>
+![alt text](imgjobsheet3/deleteleveldb.png)
+- view delete
+![alt text](imgjobsheet3/viewlevel.png)
