@@ -41,7 +41,7 @@ TI - 2F
 ## DB Facecade
 
 1. Praktikum 4
-- level
+- insert level <br>
 ![alt text](imgjobsheet3/insertlevel.png) <br>
 ![alt text](imgjobsheet3/insertleveldb.png)
 - level update
@@ -52,3 +52,24 @@ TI - 2F
 ![alt text](imgjobsheet3/deleteleveldb.png)
 - view delete
 ![alt text](imgjobsheet3/viewlevel.png)
+
+------------------------------------------------
+
+## Query Builder
+1. Praktikum 5
+- insert kategori <br>
+![alt text](imgjobsheet3/insertkategori.png) <br>
+![alt text](imgjobsheet3/insertkategoridb.png)
+- level update
+![alt text](imgjobsheet3/updatekategori.png) <br>
+![alt text](imgjobsheet3/updatekategoridb.png)
+- level delete
+![alt text](imgjobsheet3/deletekategori.png) <br>
+![alt text](imgjobsheet3/deletekategoridb.png)
+- view delete
+![alt text](imgjobsheet3/viewkategori.png)
+
+------------------------------------------------
+
+## Eloquent ORM
+1. Praktikum 6
