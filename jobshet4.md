@@ -28,4 +28,17 @@ TI - 2F
 ## Not Found Exceptions
 1. Praktikum 2.2 <br>
 
-- 
+- findOrFail 1 <br>
+![alt text](imgjobsheet4/prak2.6.png)
+- firstOrFail 2 eror<br>
+![alt text](imgjobsheet4/prak2.7.png)
+
+## Retreiving Aggregrates
+1. Praktikum 2.3 <br>
+
+- count <br>
+![alt text](imgjobsheet4/prak2.8.png)
+- view <br>
+![alt text](imgjobsheet4/prak2.9.png)
+
+
